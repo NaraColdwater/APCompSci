@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RockPaperScissors
+comment1.params=
+comment1.target=RockPaperScissors()
+comment2.params=
+comment2.target=void\ playGame()
+comment3.params=
+comment3.target=char\ getPlayer()
+comment4.params=
+comment4.target=char\ getComp()
+comment5.params=pChoice
+comment5.target=void\ setPlayer(char)
+comment6.params=
+comment6.target=void\ setComp()
+comment7.params=
+comment7.target=void\ getWinner()
+numComments=8
